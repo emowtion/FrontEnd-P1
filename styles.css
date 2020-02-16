@@ -84,6 +84,9 @@ header .profile-image:hover {
   display: table;
   margin: 10px auto;
 } 
+.tag:hover {
+  opacity: 0.9;
+}
 .location {
   background-color: #efefef;
   color: blue;
